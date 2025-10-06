@@ -66,4 +66,4 @@ Até lá… lembre-se:
   - Exportação final em MP3 e WAV.  
   
 - ## 🎬 Episódio completo
-📺 [Assistir no GitHub](/Podcast.mp4)
+📺 [Assistir no GitHub](Podcast.mp4)
