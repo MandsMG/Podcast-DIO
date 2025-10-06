@@ -64,4 +64,6 @@ Até lá… lembre-se:
   - Equalização de áudio;  
   - Inserção de música de fundo leve e efeitos suaves;  
   - Exportação final em MP3 e WAV.  
-- Arquivos finais salvos em:
+  
+- ## 🎬 Episódio completo
+📺 [Assistir no GitHub](/Podcast.mp4)
